@@ -32,10 +32,10 @@ The dataset includes:
 
 ## 📁 Files
 
-| File Name | Description |
-|-----------|-------------|
-| Social_Media_Impact_Dashboard.xlsx | Main Excel dashboard |
-| student_social_media_data.csv      | Raw dataset |
+| File Name                         | Description           |
+|----------------------------------|-----------------------|
+| Social_Media_Impact_Dashboard.xlsx | Main Excel dashboard  |
+| student_social_media_data.csv      | Raw dataset           |
 | screenshot.png                     | Dashboard preview image |
 
 ## ✅ How to Use
